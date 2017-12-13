@@ -10,4 +10,5 @@ This file is an alignment matrix between the pseudogenes and gene families. Each
 
 # pgAmats
 This folder contains the complete adjacency matrix of each PGG family. Each family has its own csv file containing the sequence alignment score (of every pair of members in the family) from the CUDA-align algorithm where each row is a pseudogene/gene and each column is a pseudogene/gene. These were used to generate the MSTs used in our manuscript. There is also much more information contained within these files that was not fully reported in the manuscript due to page limit.
+
 The zipped file containing all the adjacency matrices is also downloadable as **pgAmats.zip**.

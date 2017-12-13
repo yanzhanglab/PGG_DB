@@ -3,7 +3,7 @@ Pseudogene-gene network database and similarity matrix (beta version)
 
 This directory contains the Supplementary Materials of our PSB 2018 paper.
 
-Citation: Johnson TS, Li S, Kho JR, Huang K, Zhang Y. Network Analysis of Pseudogene-Gene Relationships: From Pseudogene Evolution to Their Functional Potentials. Pacific Symposium on Biocomputing 2018. 
+Citation: Johnson TS, Li S, Kho JR, Huang K, Zhang Y. Network analysis of pseudogene-gene relationships: from pseudogene evolution to their functional potentials. Pac Symp Biocomput. 2018;23:536-547.
 
 Access to paper: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29218912) [World Scientific](http://www.worldscientific.com/doi/abs/10.1142/9789813235533_0049) [PSB2018](https://psb.stanford.edu/psb-online/proceedings/psb18/)
 
